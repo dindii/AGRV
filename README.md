@@ -1,5 +1,5 @@
 # AGRV
-A mini console rpg game i made for a job interview
+A mini console rpg game
 
 It is a console turn based game, user can use skills to buff its stats. Skills lasts a defined quantity of rounds and does have its own cooldown/mana cost. 
 Winning player is the one who killed the another one.
